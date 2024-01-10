@@ -1,0 +1,40 @@
+{
+	"products": [
+		{
+			"type": "subscription",
+			"name": "Europe plus",
+			"productCode": "EUPLUS001",
+			"price": "60 CHF"
+		},
+		{
+			"type": "subscription",
+			"name": "Europe plus2",
+			"productCode": "EUPLUS002",
+			"price": "65 CHF"
+		},
+		{
+			"type": "subscription",
+			"name": "Europe plus3",
+			"productCode": "EUPLUS003",
+			"price": "70 CHF"
+		},
+		{
+			"type": "Device",
+			"name": "Apple iPhone 14",
+			"productCode": "DEVICE001",
+			"price": "860 CHF"
+		},
+		{
+			"type": "Device",
+			"name": "Apple iPhone 14 PRO",
+			"productCode": "DEVICE002",
+			"price": "960 CHF"
+		},
+		{
+			"type": "Device",
+			"name": "Samsung Galaxy S23",
+			"productCode": "DEVICE003",
+			"price": "865 CHF"
+		}
+	]
+}
